@@ -172,8 +172,8 @@ div ul li ul a:hover{
 }
 .card-image__img{
     border-radius: 20px;
-    min-width: 340px;
-    max-width: 340px;
+    min-width: 250px;
+    max-width: 250px;
 }
 .card-image:hover > :first-child {
     filter: brightness(50%);
@@ -185,7 +185,7 @@ div ul li ul a:hover{
 .Guardar {
     position: absolute;
     top: 20px;
-    left: 240px; 
+    left: 160px; 
     background-color: red;  
     padding: 10px 12px; 
     border-radius: 30px;
@@ -202,7 +202,7 @@ div ul li ul a:hover{
 .uploadoculto {
     position: absolute;
     bottom: 8%;
-    left: 230px;
+    left: 160px;
     background-color: white;
     border-radius: 50px;
     color: black;
@@ -218,7 +218,7 @@ div ul li ul a:hover{
 .puntosoculto {
     position: absolute;
     bottom: 8%;
-    left: 290px;
+    left: 210px;
     background-color: white;
     border-radius: 50px;
     color: black;
